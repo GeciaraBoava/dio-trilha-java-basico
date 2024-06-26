@@ -36,4 +36,4 @@ public class SmartTv{
         canal = novoCanal;
         System.out.println("Canal mudado para " + canal);
     }
- }
+}
